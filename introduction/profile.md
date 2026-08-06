@@ -4,13 +4,13 @@
 
 ## 🚀 기술 스택
 
-- HTML/CSS
-
-- JavaScript
+* HTML/CSS
+* JavaScript
+* git \& github
 
 
 
 ## 🎯 목표
 
-- Git \& GitHub 완벽 마스터하기!
+* Git \& GitHub 완벽 마스터하기!
 
